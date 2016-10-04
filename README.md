@@ -1,2 +1,2 @@
 # feather
-rate
+rate your thing
